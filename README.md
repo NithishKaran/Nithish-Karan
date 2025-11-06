@@ -24,10 +24,7 @@
 
 ### 📂 Projects
 - 🔹 **Sales Data Analysis** – Cleaned and analyzed a company’s sales data using Python and Pandas.  
-- 🔹 **Movie Recommendation System** – Built a simple recommender using similarity metrics.  
-- 🔹 **Student Performance Prediction** – Predicted exam scores using regression models.  
-- 🔹 **COVID-19 Dashboard** – Visualized real-time data using Power BI.  
-
+- 🔹 **Student Performance Prediction** – Predicted exam scores using regression models.    
 ---
 
 ### 🎯 Career Goals
