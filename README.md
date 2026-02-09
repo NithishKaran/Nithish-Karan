@@ -21,7 +21,12 @@
 
 ---
 
-### 📂 Projects   
+### 📂 Projects 
+- Netflix Recommendation System (Content-Based)
+• Cleaned and preprocessed a dataset of 8,000+ titles using Pandas and NumPy.
+• Performed exploratory data analysis (EDA) and visualized content trends using Matplotlib.
+• Built a recommendation engine using TF-IDF vectorization and Cosine Similarity.
+• Implemented a function to generate top-10 similar movie and TV show recommendations.
 ---
 
 ### 🎯 Career Goals
