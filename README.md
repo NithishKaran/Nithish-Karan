@@ -9,22 +9,19 @@
 - Data Cleaning and Analysis using **Pandas & NumPy**  
 - Data Visualization using **Matplotlib** and **Seaborn**  
 - Machine Learning with **Scikit-Learn**  
-- SQL for Data Queries  
-- Excel and Power BI for Dashboards  
+- SQL for Data Queries   
 
 ---
 
 ### 🛠️ My Skills
-- **Programming Languages:** Python, SQL, C  
-- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Scikit-Learn, Jupyter Notebook  
+- **Programming Languages:** Python, SQL  
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Scikit-Learn 
 - **Databases:** MongoDB, MySQL  
-- **Other Tools:** GitHub, Excel, Power BI  
+- **Other Tools:** GitHub, VS Code , Jupyter Notebook 
 
 ---
 
-### 📂 Projects
-- 🔹 **Sales Data Analysis** – Cleaned and analyzed a company’s sales data using Python and Pandas.  
-- 🔹 **Student Performance Prediction** – Predicted exam scores using regression models.    
+### 📂 Projects   
 ---
 
 ### 🎯 Career Goals
